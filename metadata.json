@@ -1,0 +1,6 @@
+{
+  "name": "Prioridad 48 - Command Center",
+  "description": "Plataforma de gestión crítica y control de casos según SLA de 48 horas con tablero interactivo, detalle de casos, estados del sistema y sesiones de revisión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
